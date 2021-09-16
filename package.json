@@ -1,0 +1,25 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "# Description: This app is about an individual who wants to write note and to be able to save and delete. this app is also uses Heroku.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimMakeItHappen/noteTaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KimMakeItHappen/noteTaker/issues"
+  },
+  "homepage": "https://github.com/KimMakeItHappen/noteTaker#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^3.4.0"
+  }
+}
