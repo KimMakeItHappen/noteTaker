@@ -42,3 +42,7 @@ npm i
 https://guarded-anchorage-83507.herokuapp.com/
 
 # Demostration on the project
+![Screen Shot 2021-09-16 at 3 52 18 PM](https://user-images.githubusercontent.com/80864786/133677066-cf689757-5cc1-4f6a-b4b2-c4c77cadf6e7.png)
+![Screen Shot 2021-09-16 at 3 53 25 PM](https://user-images.githubusercontent.com/80864786/133677295-78486376-4c21-419c-bff5-7f5f1863d4a1.png)
+![Screen Shot 2021-09-16 at 3 54 17 PM](https://user-images.githubusercontent.com/80864786/133677303-774e9c6c-3de5-4a3e-b0c0-477b8f740519.png)
+
