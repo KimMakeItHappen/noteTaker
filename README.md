@@ -32,3 +32,13 @@ npm i
 
 # Resources Used
 - MDN Docs
+- express docs
+- jQuery Docs
+
+# Sources
+- Had the pleasure of working with my tutor to guide me on the things I couldn't see, so thank you Juan.
+
+# Link to the Project 
+https://guarded-anchorage-83507.herokuapp.com/
+
+# Demostration on the project
